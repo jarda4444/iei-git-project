@@ -1,0 +1,10 @@
+# Compiled binaries and build directories
+bin/
+build/
+*.o
+# Python virtual environments
+.venv/
+__pycache__/
+# Sensitive files and local OS metadata
+.env
+.DS_Store
